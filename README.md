@@ -1,30 +1,13 @@
 # Data Analyst Internship Portfolio
 
 ## About
-
 Welcome to my Data Analyst Internship Portfolio completed during the ApexPlanet Internship.
 
-This repository contains my project work, presentation, dashboard, SQL analysis, Python analysis, and internship reflection.
-
----
+This repository contains my project work, presentation, Python analysis, dataset, and internship reflection.
 
 ## Project
-
-**Dirty Cafe Sales Analysis**
-
-The project focuses on cleaning raw sales data, performing exploratory data analysis, SQL analysis, dashboard creation, and generating business insights.
-
----
-
-## Tools Used
-
-- Python
-- Pandas
-- SQL
-- Power BI
-- Excel
-
----
+### Dirty Cafe Sales Analysis
+This project focuses on cleaning raw sales data, performing exploratory data analysis using Python, and generating business insights.
 
 ## Repository Structure
 
@@ -35,15 +18,31 @@ The project focuses on cleaning raw sales data, performing exploratory data anal
 - Presentation
 - Reflection
 
----
+## Tools Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- GitHub
+
+## Project Files
+
+- Dataset: Dirty Cafe Sales Dataset
+- Python Notebook: Data Cleaning & EDA
+- Presentation: Project Presentation
+- Reflection: Internship Learning Summary
 
 ## Skills Learned
 
 - Data Cleaning
 - Exploratory Data Analysis
-- SQL Queries
-- Dashboard Development
 - Data Visualization
-- Business Recommendations
+- Git & GitHub
+- Problem Solving
 
----
+## Author
+
+Harshitha
+Data Analyst Intern – ApexPlanet
